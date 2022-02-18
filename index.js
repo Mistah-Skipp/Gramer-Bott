@@ -2,11 +2,6 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 const keep_alive = require('./alive.js');
 const fs = require('fs');
-const Database = require("@replit/database")
-const db = new Database()
-//db.set("george", 0).then(() => {});
-//db.set("alex", 0).then(() => {});
-//db.set("test",25).then(() => {});
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}!`)
     client.user.setPresence({
@@ -16,23 +11,7 @@ client.on("ready", () => {
 
 //test zone
 client.on('message', message =>{
-    if(message.content === "gajmD"){
-        /*fs.readFile('botRef.json', (err, data) =>{
-            if (err) throw err;
-            let student = JSON.parse(data);
-            message.channel.send("defaulting json");
-            let student2 = {
-                george: 50,
-                alex: 50
-            }
-            let newData =  JSON.stringify(student2, null, 2);
-            fs.writeFileSync('botRef.json',newData);
-        });*/
-        var tdb = db.get("test").then(value => {console.log()});
-        message.channel.send("\ntest DB: "+tdb);
-        var tdb2 = db.get("test").then((value) => value.json()).then((user) => console.log(user.key));
-        message.channel.send("\ntest DB2: "+tdb2);
-    }
+    
 });
 
 
@@ -45,7 +24,7 @@ client.on('message', message => {
     let args = message.content.toLowerCase().split(" ");
     var cntr = 0;
     var length = message.content.length;
-    console.log(length);
+    //console.log(length);
     while (length >= cntr){
         switch(args[cntr]){
             case "69":
@@ -71,8 +50,12 @@ client.on('message', message => {
     if (message.member.roles.cache.has('354004613797511169')) {
             console.log("do i respond:\n(0-10 gen || 11-20 spec)"+doesResp);
             console.log("what response i choose for gen: "+resp);
-            fs.appendFile('log.txt', doesResp +" || "+ resp+"\r\n", (err) => {if (err) throw err;});
-        if (doesResp > 5 && doesResp <= 10){
+            fs.appendFile('log.txt', "Does Resp: "+doesResp +" || Resp Choice: "+ resp, (err) => {if (err) throw err;});
+            if (doesResp >20){
+                fs.appendFile('log.txt', " ==NONE\r\n", (err) => {if (err) throw err;});
+            }
+        if (doesResp > 0 && doesResp <= 10){
+            fs.appendFile('log.txt', " ==GENERIC\r\n", (err) => {if (err) throw err;});
             if (resp == 69){
                 message.channel.send("haha nice.. get it? its the sex number");
             }else if (resp > 0 && resp <= 10){
@@ -101,29 +84,45 @@ client.on('message', message => {
         } else if(doesResp > 10  &&  doesResp <= 20){
             if(message.author.id === "266014149853708291"){
                 message.channel.send("Godzilla bad");
+                fs.appendFile('log.txt', " ==JOE\r\n", (err) => {if (err) throw err;});
                 //joe
             } else if(message.author.id === "263457606645972995"){
-                message.channel.send("whatever Mr. $4000 bed");//goerg
+                message.channel.send("whatever Mr. $4000 bed");
+                fs.appendFile('log.txt', " ==GOERG\r\n", (err) => {if (err) throw err;});
+                //goerg
             } else if(message.author.id ==="163810266625081345"){
-                message.channel.send("says the token gay guy");//bryan
+                message.channel.send("says the token gay guy");
+                fs.appendFile('log.txt', " ==BRYAN\r\n", (err) => {if (err) throw err;});
+                //bryan
             }else if(message.author.id === "296404969387720705"){
                 var car = Math.floor((Math.random() * 10) + 5);
                 message.channel.send("go roll your " + car + "th car you cuck");
+                fs.appendFile('log.txt', "==ALEX\r\n", (err) => {if (err) throw err;});
                 //alex
             }else if(message.author.id === "312399825637212160"){
                 message.channel.send("Dont care, didnt ask");
+                fs.appendFile('log.txt', " ==JAKE\r\n", (err) => {if (err) throw err;});
                 //jake
             }else if(message.author.id === "174377288903688192"){
-                message.channel.send("OK elite preferred species");//josh
+                fs.appendFile('log.txt', " ==JOSH\r\n", (err) => {if (err) throw err;});message.channel.send("OK elite preferred species");
+                //josh
             }else if(message.author.id === "242037517241548801"){
                 message.channel.send("I cant insult my wittle PogChamp");
+                fs.appendFile('log.txt', " ==CHRIS\r\n", (err) => {if (err) throw err;});
                 //chris
             }else if(message.author.id === "324612052532592641"){
                 message.channel.send("Matt your the only one i like out of these bumbling retards");
+                fs.appendFile('log.txt', " ==MATT\r\n", (err) => {if (err) throw err;});
                 //matt
             }
         }
-    }
+    }// EOF @GUYS ROLE  
+    //944051595711234048
+    if(message.member.roles.cache.has("944051595711234048")||message.content.includes("@&944051595711234048")){
+        if(doesResp <= 10){
+            message.channel.send("Garlo Bad");
+        }
+    }//EOF @GARLO_BAD ROLE
 
 });
 
