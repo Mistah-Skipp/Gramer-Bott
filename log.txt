@@ -371,3 +371,880 @@ Does Resp: 91 || Resp Choice: 36 ==NONE
 Does Resp: 98 || Resp Choice: 18 ==NONE
 Does Resp: 7 || Resp Choice: 45 ==GENERIC
 Does Resp: 51 || Resp Choice: 92 ==NONE
+Does Resp: 88 || Resp Choice: 79 ==NONE
+Does Resp: 25 || Resp Choice: 17 ==NONE
+ ==NONE
+Does Resp: 82 || Resp Choice: 26Does Resp: 63 || Resp Choice: 52 ==NONE
+Does Resp: 61 || Resp Choice: 1 ==NONE
+ ==NONE
+Does Resp: 41 || Resp Choice: 24Does Resp: 46 || Resp Choice: 21 ==NONE
+ ==NONE
+Does Resp: 38 || Resp Choice: 43Does Resp: 71 || Resp Choice: 67 ==NONE
+Does Resp: 98 || Resp Choice: 53 ==NONE
+Does Resp: 24 || Resp Choice: 65 ==NONE
+Does Resp: 73 || Resp Choice: 30 ==NONE
+Does Resp: 18 || Resp Choice: 45 ==JOE
+Does Resp: 51 || Resp Choice: 98 ==NONE
+Does Resp: 76 || Resp Choice: 51 ==NONE
+Does Resp: 90 || Resp Choice: 5 ==NONE
+Does Resp: 37 || Resp Choice: 14 ==NONE
+Does Resp: 78 || Resp Choice: 98 ==NONE
+Does Resp: 94 || Resp Choice: 73 ==NONE
+Does Resp: 51 || Resp Choice: 77 ==NONE
+Does Resp: 27 || Resp Choice: 66 ==NONE
+Does Resp: 45 || Resp Choice: 37 ==NONE
+ ==NONE
+Does Resp: 54 || Resp Choice: 38Does Resp: 7 || Resp Choice: 57 ==GENERIC
+Does Resp: 96 || Resp Choice: 59 ==NONE
+Does Resp: 87 || Resp Choice: 73 ==NONE
+Does Resp: 5 || Resp Choice: 74 ==GENERIC
+Does Resp: 32 || Resp Choice: 56 ==NONE
+Does Resp: 37 || Resp Choice: 64 ==NONE
+Does Resp: 5 || Resp Choice: 73 ==GENERIC
+Does Resp: 97 || Resp Choice: 46 ==NONE
+Does Resp: 87 || Resp Choice: 28 ==NONE
+Does Resp: 89 || Resp Choice: 68 ==NONE
+Does Resp: 3 || Resp Choice: 7 ==GENERIC
+Does Resp: 92 || Resp Choice: 82 ==NONE
+Does Resp: 45 || Resp Choice: 55 ==NONE
+Does Resp: 70 || Resp Choice: 33 ==NONE
+Does Resp: 10 || Resp Choice: 51 ==GENERIC
+ ==NONE
+Does Resp: 55 || Resp Choice: 42Does Resp: 89 || Resp Choice: 36 ==NONE
+Does Resp: 100 || Resp Choice: 85 ==NONE
+Does Resp: 27 || Resp Choice: 24 ==NONE
+Does Resp: 64 || Resp Choice: 2 ==NONE
+Does Resp: 61 || Resp Choice: 46 ==NONE
+Does Resp: 5 || Resp Choice: 56 ==GENERIC
+Does Resp: 57 || Resp Choice: 12 ==NONE
+Does Resp: 12 || Resp Choice: 83 ==MATT
+Does Resp: 31 || Resp Choice: 98 ==NONE
+Does Resp: 39 || Resp Choice: 5 ==NONE
+Does Resp: 59 || Resp Choice: 52 ==NONE
+Does Resp: 58 || Resp Choice: 100 ==NONE
+Does Resp: 39 || Resp Choice: 24 ==NONE
+Does Resp: 37 || Resp Choice: 21 ==NONE
+Does Resp: 99 || Resp Choice: 77 ==NONE
+Does Resp: 47 || Resp Choice: 1 ==NONE
+Does Resp: 63 || Resp Choice: 25 ==NONE
+ ==NONE
+Does Resp: 27 || Resp Choice: 16Does Resp: 69 || Resp Choice: 75 ==NONE
+Does Resp: 36 || Resp Choice: 86 ==NONE
+Does Resp: 19 || Resp Choice: 17 ==JAKE
+Does Resp: 84 || Resp Choice: 26 ==NONE
+Does Resp: 12 || Resp Choice: 67 ==GOERG
+Does Resp: 54 || Resp Choice: 13 ==NONE
+Does Resp: 8 || Resp Choice: 31 ==GENERIC
+ ==NONE
+Does Resp: 67 || Resp Choice: 31Does Resp: 91 || Resp Choice: 77 ==NONE
+ ==NONE
+Does Resp: 49 || Resp Choice: 6Does Resp: 18 || Resp Choice: 1 ==JOE
+Does Resp: 33 || Resp Choice: 40 ==NONE
+Does Resp: 8 || Resp Choice: 84 ==GENERIC
+Does Resp: 32 || Resp Choice: 56 ==NONE
+Does Resp: 15 || Resp Choice: 59 ==GOERG
+Does Resp: 58 || Resp Choice: 72 ==NONE
+Does Resp: 95 || Resp Choice: 15 ==NONE
+Does Resp: 37 || Resp Choice: 86 ==NONE
+Does Resp: 22 || Resp Choice: 56 ==NONE
+Does Resp: 57 || Resp Choice: 63 ==NONE
+Does Resp: 14 || Resp Choice: 67 ==JOE
+Does Resp: 95 || Resp Choice: 2 ==NONE
+Does Resp: 53 || Resp Choice: 89 ==NONE
+Does Resp: 77 || Resp Choice: 6 ==NONE
+ ==NONE
+Does Resp: 61 || Resp Choice: 36Does Resp: 48 || Resp Choice: 62 ==NONE
+Does Resp: 54 || Resp Choice: 56 ==NONE
+Does Resp: 46 || Resp Choice: 77 ==NONE
+Does Resp: 69 || Resp Choice: 94 ==NONE
+Does Resp: 25 || Resp Choice: 44 ==NONE
+Does Resp: 80 || Resp Choice: 79 ==NONE
+Does Resp: 42 || Resp Choice: 76 ==NONE
+Does Resp: 82 || Resp Choice: 83 ==NONE
+Does Resp: 90 || Resp Choice: 57 ==NONE
+Does Resp: 35 || Resp Choice: 14 ==NONE
+Does Resp: 31 || Resp Choice: 20 ==NONE
+Does Resp: 52 || Resp Choice: 95 ==NONE
+Does Resp: 39 || Resp Choice: 67 ==NONE
+Does Resp: 51 || Resp Choice: 77 ==NONE
+Does Resp: 93 || Resp Choice: 8 ==NONE
+Does Resp: 71 || Resp Choice: 33 ==NONE
+Does Resp: 7 || Resp Choice: 5 ==GENERIC
+Does Resp: 13 || Resp Choice: 67 ==JAKE
+Does Resp: 29 || Resp Choice: 14 ==NONE
+Does Resp: 91 || Resp Choice: 61 ==NONE
+Does Resp: 76 || Resp Choice: 17 ==NONE
+Does Resp: 80 || Resp Choice: 45 ==NONE
+Does Resp: 75 || Resp Choice: 13 ==NONE
+Does Resp: 31 || Resp Choice: 24 ==NONE
+Does Resp: 48 || Resp Choice: 69 ==NONE
+Does Resp: 53 || Resp Choice: 4 ==NONE
+Does Resp: 68 || Resp Choice: 18 ==NONE
+Does Resp: 46 || Resp Choice: 6 ==NONE
+Does Resp: 50 || Resp Choice: 68 ==NONE
+Does Resp: 77 || Resp Choice: 68 ==NONE
+ ==NONE
+Does Resp: 92 || Resp Choice: 88Does Resp: 73 || Resp Choice: 16 ==NONE
+Does Resp: 13 || Resp Choice: 70 ==GOERG
+Does Resp: 4 || Resp Choice: 88 ==GENERIC
+Does Resp: 82 || Resp Choice: 25 ==NONE
+Does Resp: 44 || Resp Choice: 34 ==NONE
+Does Resp: 34 || Resp Choice: 74 ==NONE
+Does Resp: 19 || Resp Choice: 34 ==GOERG
+Does Resp: 59 || Resp Choice: 13 ==NONE
+Does Resp: 43 || Resp Choice: 14 ==NONE
+Does Resp: 24 || Resp Choice: 70 ==NONE
+Does Resp: 67 || Resp Choice: 40 ==NONE
+Does Resp: 33 || Resp Choice: 46 ==NONE
+ ==NONE
+Does Resp: 70 || Resp Choice: 20Does Resp: 37 || Resp Choice: 68 ==NONE
+Does Resp: 66 || Resp Choice: 58 ==NONE
+Does Resp: 61 || Resp Choice: 55 ==NONE
+Does Resp: 51 || Resp Choice: 42 ==NONE
+Does Resp: 32 || Resp Choice: 36 ==NONE
+Does Resp: 56 || Resp Choice: 88 ==NONE
+Does Resp: 12 || Resp Choice: 92==ALEX
+Does Resp: 2 || Resp Choice: 17 ==GENERIC
+Does Resp: 50 || Resp Choice: 67 ==NONE
+Does Resp: 13 || Resp Choice: 94 ==JOE
+Does Resp: 50 || Resp Choice: 50 ==NONE
+Does Resp: 83 || Resp Choice: 71 ==NONE
+Does Resp: 6 || Resp Choice: 18 ==GENERIC
+Does Resp: 46 || Resp Choice: 3 ==NONE
+Does Resp: 41 || Resp Choice: 82 ==NONE
+Does Resp: 48 || Resp Choice: 47 ==NONE
+Does Resp: 39 || Resp Choice: 84 ==NONE
+ ==NONE
+Does Resp: 96 || Resp Choice: 37Does Resp: 96 || Resp Choice: 59 ==NONE
+Does Resp: 73 || Resp Choice: 77 ==NONE
+Does Resp: 71 || Resp Choice: 18 ==NONE
+Does Resp: 51 || Resp Choice: 5 ==NONE
+Does Resp: 84 || Resp Choice: 7 ==NONE
+Does Resp: 86 || Resp Choice: 31 ==NONE
+ ==NONE
+Does Resp: 22 || Resp Choice: 46Does Resp: 25 || Resp Choice: 48 ==NONE
+Does Resp: 16 || Resp Choice: 34 ==JOE
+ ==NONE
+Does Resp: 33 || Resp Choice: 67Does Resp: 27 || Resp Choice: 88 ==NONE
+ ==NONE
+Does Resp: 88 || Resp Choice: 47Does Resp: 86 || Resp Choice: 13 ==NONE
+Does Resp: 30 || Resp Choice: 88 ==NONE
+Does Resp: 42 || Resp Choice: 33 ==NONE
+Does Resp: 38 || Resp Choice: 67 ==NONE
+ ==NONE
+Does Resp: 40 || Resp Choice: 96Does Resp: 45 || Resp Choice: 86 ==NONE
+Does Resp: 19 || Resp Choice: 93 ==GOERG
+Does Resp: 43 || Resp Choice: 19 ==NONE
+Does Resp: 75 || Resp Choice: 8 ==NONE
+Does Resp: 19 || Resp Choice: 29 ==CHRIS
+Does Resp: 23 || Resp Choice: 16 ==NONE
+Does Resp: 58 || Resp Choice: 60 ==NONE
+ ==NONE
+Does Resp: 73 || Resp Choice: 68Does Resp: 19 || Resp Choice: 96 ==CHRIS
+Does Resp: 97 || Resp Choice: 74 ==NONE
+Does Resp: 10 || Resp Choice: 62 ==GENERIC
+Does Resp: 73 || Resp Choice: 22 ==NONE
+Does Resp: 99 || Resp Choice: 63 ==NONE
+Does Resp: 82 || Resp Choice: 45 ==NONE
+Does Resp: 83 || Resp Choice: 8 ==NONE
+ ==NONE
+Does Resp: 68 || Resp Choice: 59Does Resp: 22 || Resp Choice: 95 ==NONE
+Does Resp: 55 || Resp Choice: 50 ==NONE
+Does Resp: 60 || Resp Choice: 67 ==NONE
+ ==NONE
+Does Resp: 64 || Resp Choice: 73Does Resp: 18 || Resp Choice: 68 ==JOE
+Does Resp: 57 || Resp Choice: 22 ==NONE
+Does Resp: 73 || Resp Choice: 24 ==NONE
+Does Resp: 3 || Resp Choice: 80 ==GENERIC
+ ==GENERIC
+Does Resp: 1 || Resp Choice: 24Does Resp: 5 || Resp Choice: 89 ==GENERIC
+Does Resp: 62 || Resp Choice: 30 ==NONE
+Does Resp: 25 || Resp Choice: 99 ==NONE
+Does Resp: 4 || Resp Choice: 10 ==GENERIC
+Does Resp: 83 || Resp Choice: 28 ==NONE
+Does Resp: 42 || Resp Choice: 96 ==NONE
+Does Resp: 4 || Resp Choice: 17 ==GENERIC
+Does Resp: 66 || Resp Choice: 69 ==NONE
+Does Resp: 38 || Resp Choice: 66 ==NONE
+Does Resp: 74 || Resp Choice: 62 ==NONE
+ ==GENERIC
+Does Resp: 8 || Resp Choice: 54 ==NONE
+Does Resp: 43 || Resp Choice: 43Does Resp: 74 || Resp Choice: 94 ==NONE
+Does Resp: 22 || Resp Choice: 65 ==NONE
+Does Resp: 53 || Resp Choice: 25 ==NONE
+Does Resp: 88 || Resp Choice: 15 ==NONE
+ ==NONE
+Does Resp: 22 || Resp Choice: 40Does Resp: 95 || Resp Choice: 64 ==NONE
+Does Resp: 79 || Resp Choice: 62 ==NONE
+Does Resp: 13 || Resp Choice: 61 ==JOE
+Does Resp: 91 || Resp Choice: 50 ==NONE
+Does Resp: 66 || Resp Choice: 94 ==NONE
+Does Resp: 28 || Resp Choice: 23 ==NONE
+Does Resp: 66 || Resp Choice: 37 ==NONE
+Does Resp: 29 || Resp Choice: 3 ==NONE
+Does Resp: 44 || Resp Choice: 73 ==NONE
+Does Resp: 18 || Resp Choice: 86 ==JOE
+Does Resp: 95 || Resp Choice: 91 ==NONE
+Does Resp: 63 || Resp Choice: 55 ==NONE
+Does Resp: 11 || Resp Choice: 76 ==GOERG
+Does Resp: 85 || Resp Choice: 44 ==NONE
+Does Resp: 89 || Resp Choice: 44 ==NONE
+Does Resp: 6 || Resp Choice: 73 ==GENERIC
+Does Resp: 11 || Resp Choice: 9 ==GOERG
+Does Resp: 42 || Resp Choice: 34 ==NONE
+Does Resp: 46 || Resp Choice: 97 ==NONE
+Does Resp: 95 || Resp Choice: 84 ==NONE
+Does Resp: 4 || Resp Choice: 56 ==GENERIC
+Does Resp: 32 || Resp Choice: 54 ==NONE
+Does Resp: 22 || Resp Choice: 53 ==NONE
+Does Resp: 18 || Resp Choice: 73 ==JOE
+Does Resp: 94 || Resp Choice: 45 ==NONE
+Does Resp: 23 || Resp Choice: 64 ==NONE
+Does Resp: 27 || Resp Choice: 34 ==NONE
+Does Resp: 58 || Resp Choice: 7 ==NONE
+Does Resp: 68 || Resp Choice: 20 ==NONE
+Does Resp: 50 || Resp Choice: 1 ==NONE
+Does Resp: 97 || Resp Choice: 66 ==NONE
+Does Resp: 16 || Resp Choice: 13 ==JOE
+Does Resp: 24 || Resp Choice: 28 ==NONE
+Does Resp: 10 || Resp Choice: 99 ==GENERIC
+Does Resp: 14 || Resp Choice: 44 ==JOE
+Does Resp: 17 || Resp Choice: 32 ==JOE
+Does Resp: 20 || Resp Choice: 52 ==JOE
+Does Resp: 60 || Resp Choice: 52 ==NONE
+Does Resp: 90 || Resp Choice: 5 ==NONE
+ ==JAKE
+Does Resp: 15 || Resp Choice: 14Does Resp: 10 || Resp Choice: 60 ==GENERIC
+Does Resp: 87 || Resp Choice: 78 ==NONE
+Does Resp: 27 || Resp Choice: 54 ==NONE
+Does Resp: 80 || Resp Choice: 52 ==NONE
+Does Resp: 14 || Resp Choice: 62 ==JOE
+Does Resp: 94 || Resp Choice: 95 ==NONE
+Does Resp: 55 || Resp Choice: 40 ==NONE
+Does Resp: 95 || Resp Choice: 4 ==NONE
+Does Resp: 49 || Resp Choice: 73 ==NONE
+Does Resp: 77 || Resp Choice: 93 ==NONE
+ ==NONE
+Does Resp: 62 || Resp Choice: 42Does Resp: 54 || Resp Choice: 43 ==NONE
+Does Resp: 85 || Resp Choice: 60 ==NONE
+Does Resp: 28 || Resp Choice: 83 ==NONE
+Does Resp: 13 || Resp Choice: 33 ==GOERG
+Does Resp: 29 || Resp Choice: 3 ==NONE
+Does Resp: 100 || Resp Choice: 43 ==NONE
+Does Resp: 85 || Resp Choice: 71 ==NONE
+Does Resp: 2 || Resp Choice: 22 ==GENERIC
+Does Resp: 32 || Resp Choice: 3 ==NONE
+Does Resp: 57 || Resp Choice: 36 ==NONE
+ ==NONE
+Does Resp: 53 || Resp Choice: 84Does Resp: 43 || Resp Choice: 51 ==NONE
+Does Resp: 69 || Resp Choice: 21 ==NONE
+Does Resp: 71 || Resp Choice: 84 ==NONE
+Does Resp: 67 || Resp Choice: 23 ==NONE
+ ==NONE
+Does Resp: 62 || Resp Choice: 59Does Resp: 67 || Resp Choice: 78 ==NONE
+Does Resp: 53 || Resp Choice: 96 ==NONE
+Does Resp: 73 || Resp Choice: 87 ==NONE
+Does Resp: 28 || Resp Choice: 77 ==NONE
+Does Resp: 75 || Resp Choice: 1 ==NONE
+ ==NONE
+Does Resp: 76 || Resp Choice: 58Does Resp: 14 || Resp Choice: 86 ==JOE
+Does Resp: 44 || Resp Choice: 26 ==NONE
+Does Resp: 16 || Resp Choice: 39 ==JOE
+Does Resp: 24 || Resp Choice: 52 ==NONE
+Does Resp: 52 || Resp Choice: 20 ==NONE
+ ==NONE
+Does Resp: 70 || Resp Choice: 48Does Resp: 48 || Resp Choice: 63 ==NONE
+Does Resp: 5 || Resp Choice: 27 ==GENERIC
+Does Resp: 16 || Resp Choice: 14 ==JOE
+Does Resp: 48 || Resp Choice: 24 ==NONE
+Does Resp: 4 || Resp Choice: 49 ==GENERIC
+Does Resp: 31 || Resp Choice: 47 ==NONE
+Does Resp: 17 || Resp Choice: 26 ==GOERG
+Does Resp: 9 || Resp Choice: 74 ==GENERIC
+Does Resp: 14 || Resp Choice: 78 ==JOE
+Does Resp: 3 || Resp Choice: 80 ==GENERIC
+Does Resp: 5 || Resp Choice: 19 ==GENERIC
+Does Resp: 91 || Resp Choice: 50 ==NONE
+Does Resp: 34 || Resp Choice: 61 ==NONE
+ ==NONE
+Does Resp: 91 || Resp Choice: 86Does Resp: 22 || Resp Choice: 34 ==NONE
+Does Resp: 18 || Resp Choice: 88 ==JAKE
+Does Resp: 61 || Resp Choice: 34 ==NONE
+Does Resp: 28 || Resp Choice: 92 ==NONE
+Does Resp: 64 || Resp Choice: 66 ==NONE
+Does Resp: 38 || Resp Choice: 87 ==NONE
+Does Resp: 27 || Resp Choice: 87 ==NONE
+Does Resp: 53 || Resp Choice: 40 ==NONE
+Does Resp: 34 || Resp Choice: 24 ==NONE
+Does Resp: 39 || Resp Choice: 70 ==NONE
+ ==NONE
+Does Resp: 95 || Resp Choice: 81Does Resp: 92 || Resp Choice: 57 ==NONE
+Does Resp: 25 || Resp Choice: 89 ==NONE
+Does Resp: 5 || Resp Choice: 90 ==GENERIC
+ ==NONE
+Does Resp: 52 || Resp Choice: 22 ==NONE
+Does Resp: 83 || Resp Choice: 23Does Resp: 37 || Resp Choice: 35 ==NONE
+Does Resp: 52 || Resp Choice: 45 ==NONE
+Does Resp: 79 || Resp Choice: 94 ==NONE
+Does Resp: 73 || Resp Choice: 81 ==NONE
+Does Resp: 9 || Resp Choice: 60 ==GENERIC
+Does Resp: 95 || Resp Choice: 93 ==NONE
+Does Resp: 38 || Resp Choice: 41 ==NONE
+Does Resp: 81 || Resp Choice: 37 ==NONE
+Does Resp: 95 || Resp Choice: 29 ==NONE
+Does Resp: 84 || Resp Choice: 26 ==NONE
+Does Resp: 42 || Resp Choice: 4 ==NONE
+Does Resp: 7 || Resp Choice: 39 ==GENERIC
+Does Resp: 82 || Resp Choice: 8 ==NONE
+Does Resp: 27 || Resp Choice: 95 ==NONE
+Does Resp: 100 || Resp Choice: 46 ==NONE
+Does Resp: 63 || Resp Choice: 40 ==NONE
+Does Resp: 3 || Resp Choice: 38 ==GENERIC
+Does Resp: 82 || Resp Choice: 93 ==NONE
+Does Resp: 66 || Resp Choice: 52 ==NONE
+Does Resp: 87 || Resp Choice: 99 ==NONE
+Does Resp: 37 || Resp Choice: 51 ==NONE
+Does Resp: 2 || Resp Choice: 60 ==GENERIC
+Does Resp: 4 || Resp Choice: 79 ==GENERIC
+Does Resp: 44 || Resp Choice: 73 ==NONE
+Does Resp: 61 || Resp Choice: 97 ==NONE
+Does Resp: 41 || Resp Choice: 29 ==NONE
+Does Resp: 63 || Resp Choice: 48 ==NONE
+ ==NONE
+Does Resp: 52 || Resp Choice: 3Does Resp: 49 || Resp Choice: 37 ==NONE
+ ==GENERIC
+Does Resp: 7 || Resp Choice: 24Does Resp: 83 || Resp Choice: 11 ==NONE
+Does Resp: 61 || Resp Choice: 83 ==NONE
+Does Resp: 12 || Resp Choice: 100 ==JAKE
+Does Resp: 96 || Resp Choice: 29 ==NONE
+Does Resp: 77 || Resp Choice: 6 ==NONE
+Does Resp: 89 || Resp Choice: 82 ==NONE
+Does Resp: 11 || Resp Choice: 34 ==JOE
+Does Resp: 72 || Resp Choice: 3 ==NONE
+Does Resp: 19 || Resp Choice: 69 ==MATT
+ ==NONE
+Does Resp: 44 || Resp Choice: 47Does Resp: 35 || Resp Choice: 98 ==NONE
+Does Resp: 39 || Resp Choice: 30 ==NONE
+Does Resp: 92 || Resp Choice: 87 ==NONE
+Does Resp: 75 || Resp Choice: 50 ==NONE
+Does Resp: 67 || Resp Choice: 63 ==NONE
+Does Resp: 51 || Resp Choice: 78 ==NONE
+Does Resp: 65 || Resp Choice: 69 ==NONE
+Does Resp: 75 || Resp Choice: 77 ==NONE
+Does Resp: 61 || Resp Choice: 70 ==NONE
+Does Resp: 80 || Resp Choice: 86 ==NONE
+Does Resp: 53 || Resp Choice: 99 ==NONE
+ ==NONE
+Does Resp: 56 || Resp Choice: 51Does Resp: 100 || Resp Choice: 61 ==NONE
+ ==NONE
+Does Resp: 89 || Resp Choice: 39Does Resp: 62 || Resp Choice: 83 ==NONE
+Does Resp: 77 || Resp Choice: 22 ==NONE
+Does Resp: 25 || Resp Choice: 15 ==NONE
+ ==NONE
+Does Resp: 83 || Resp Choice: 60 ==NONE
+Does Resp: 51 || Resp Choice: 56Does Resp: 52 || Resp Choice: 82 ==NONE
+Does Resp: 39 || Resp Choice: 58 ==NONE
+Does Resp: 14 || Resp Choice: 75 ==CHRIS
+Does Resp: 62 || Resp Choice: 99 ==NONE
+Does Resp: 48 || Resp Choice: 32 ==NONE
+Does Resp: 58 || Resp Choice: 49 ==NONE
+Does Resp: 91 || Resp Choice: 45 ==NONE
+Does Resp: 95 || Resp Choice: 56 ==NONE
+Does Resp: 83 || Resp Choice: 78 ==NONE
+Does Resp: 57 || Resp Choice: 83 ==NONE
+Does Resp: 26 || Resp Choice: 54 ==NONE
+Does Resp: 13 || Resp Choice: 89 ==JAKE
+Does Resp: 69 || Resp Choice: 25 ==NONE
+Does Resp: 27 || Resp Choice: 67 ==NONE
+Does Resp: 82 || Resp Choice: 14 ==NONE
+Does Resp: 76 || Resp Choice: 32 ==NONE
+ ==NONE
+Does Resp: 68 || Resp Choice: 12Does Resp: 8 || Resp Choice: 47 ==GENERIC
+Does Resp: 40 || Resp Choice: 77 ==NONE
+Does Resp: 31 || Resp Choice: 16 ==NONE
+Does Resp: 69 || Resp Choice: 5 ==NONE
+Does Resp: 48 || Resp Choice: 4 ==NONE
+Does Resp: 75 || Resp Choice: 67 ==NONE
+ ==NONE
+Does Resp: 25 || Resp Choice: 95 ==NONE
+Does Resp: 33 || Resp Choice: 38Does Resp: 100 || Resp Choice: 8 ==NONE
+Does Resp: 70 || Resp Choice: 31 ==NONE
+ ==GENERIC
+Does Resp: 4 || Resp Choice: 34Does Resp: 91 || Resp Choice: 69 ==NONE
+Does Resp: 78 || Resp Choice: 5 ==NONE
+Does Resp: 27 || Resp Choice: 1 ==NONE
+Does Resp: 89 || Resp Choice: 47 ==NONE
+Does Resp: 68 || Resp Choice: 56 ==NONE
+Does Resp: 2 || Resp Choice: 72 ==GENERIC
+Does Resp: 22 || Resp Choice: 11 ==NONE
+Does Resp: 47 || Resp Choice: 40 ==NONE
+Does Resp: 2 || Resp Choice: 87 ==GENERIC
+Does Resp: 90 || Resp Choice: 47 ==NONE
+Does Resp: 67 || Resp Choice: 79 ==NONE
+Does Resp: 73 || Resp Choice: 72 ==NONE
+Does Resp: 20 || Resp Choice: 13 ==GOERG
+Does Resp: 69 || Resp Choice: 54 ==NONE
+Does Resp: 16 || Resp Choice: 92 ==GOERG
+Does Resp: 80 || Resp Choice: 10 ==NONE
+Does Resp: 41 || Resp Choice: 88 ==NONE
+Does Resp: 15 || Resp Choice: 94 ==GOERG
+Does Resp: 83 || Resp Choice: 96 ==NONE
+Does Resp: 78 || Resp Choice: 26 ==NONE
+Does Resp: 31 || Resp Choice: 99 ==NONE
+Does Resp: 9 || Resp Choice: 77 ==GENERIC
+ ==NONE
+Does Resp: 88 || Resp Choice: 32 ==NONE
+Does Resp: 91 || Resp Choice: 80Does Resp: 67 || Resp Choice: 15 ==NONE
+ ==NONE
+Does Resp: 70 || Resp Choice: 33Does Resp: 11 || Resp Choice: 14 ==JAKE
+Does Resp: 17 || Resp Choice: 9 ==JAKE
+Does Resp: 73 || Resp Choice: 84 ==NONE
+Does Resp: 38 || Resp Choice: 42 ==NONE
+Does Resp: 49 || Resp Choice: 73 ==NONE
+Does Resp: 51 || Resp Choice: 5 ==NONE
+Does Resp: 71 || Resp Choice: 67 ==NONE
+ ==NONE
+Does Resp: 38 || Resp Choice: 44Does Resp: 43 || Resp Choice: 56 ==NONE
+Does Resp: 99 || Resp Choice: 79 ==NONE
+ ==NONE
+Does Resp: 65 || Resp Choice: 11Does Resp: 13 || Resp Choice: 58 ==GOERG
+Does Resp: 67 || Resp Choice: 5 ==NONE
+ ==NONE
+Does Resp: 65 || Resp Choice: 30Does Resp: 87 || Resp Choice: 23 ==NONE
+Does Resp: 13 || Resp Choice: 26 ==JAKE
+Does Resp: 45 || Resp Choice: 94 ==NONE
+Does Resp: 17 || Resp Choice: 55 ==GOERG
+Does Resp: 71 || Resp Choice: 49 ==NONE
+Does Resp: 40 || Resp Choice: 58 ==NONE
+Does Resp: 56 || Resp Choice: 32 ==NONE
+Does Resp: 53 || Resp Choice: 81 ==NONE
+ ==NONE
+Does Resp: 66 || Resp Choice: 2Does Resp: 51 || Resp Choice: 21 ==NONE
+ ==NONE
+Does Resp: 59 || Resp Choice: 21Does Resp: 9 || Resp Choice: 66 ==GENERIC
+Does Resp: 77 || Resp Choice: 19 ==NONE
+ ==NONE
+Does Resp: 97 || Resp Choice: 12 ==NONE
+Does Resp: 72 || Resp Choice: 82Does Resp: 15 || Resp Choice: 77 ==JAKE
+Does Resp: 13 || Resp Choice: 4 ==JOE
+Does Resp: 91 || Resp Choice: 26 ==NONE
+Does Resp: 4 || Resp Choice: 36 ==GENERIC
+Does Resp: 39 || Resp Choice: 37 ==NONE
+Does Resp: 78 || Resp Choice: 57 ==NONE
+Does Resp: 71 || Resp Choice: 89 ==NONE
+Does Resp: 58 || Resp Choice: 39 ==NONE
+Does Resp: 89 || Resp Choice: 72 ==NONE
+Does Resp: 73 || Resp Choice: 77 ==NONE
+Does Resp: 74 || Resp Choice: 9 ==NONE
+Does Resp: 88 || Resp Choice: 56 ==NONE
+Does Resp: 82 || Resp Choice: 67 ==NONE
+Does Resp: 64 || Resp Choice: 32 ==NONE
+ ==NONE
+Does Resp: 23 || Resp Choice: 44Does Resp: 73 || Resp Choice: 71 ==NONE
+Does Resp: 95 || Resp Choice: 68 ==NONE
+Does Resp: 71 || Resp Choice: 25 ==NONE
+ ==NONE
+Does Resp: 55 || Resp Choice: 2Does Resp: 92 || Resp Choice: 25 ==NONE
+Does Resp: 56 || Resp Choice: 34 ==NONE
+Does Resp: 8 || Resp Choice: 71 ==GENERIC
+Does Resp: 54 || Resp Choice: 50 ==NONE
+Does Resp: 31 || Resp Choice: 6 ==NONE
+Does Resp: 96 || Resp Choice: 77 ==NONE
+Does Resp: 12 || Resp Choice: 44 ==JOE
+ ==NONE
+Does Resp: 86 || Resp Choice: 69Does Resp: 56 || Resp Choice: 64 ==NONE
+Does Resp: 36 || Resp Choice: 18 ==NONE
+ ==NONE
+Does Resp: 65 || Resp Choice: 82 ==NONE
+Does Resp: 27 || Resp Choice: 40Does Resp: 52 || Resp Choice: 81 ==NONE
+Does Resp: 45 || Resp Choice: 26 ==NONE
+Does Resp: 55 || Resp Choice: 34 ==NONE
+ ==NONE
+Does Resp: 53 || Resp Choice: 97Does Resp: 16 || Resp Choice: 15 ==JAKE
+Does Resp: 91 || Resp Choice: 49 ==NONE
+Does Resp: 10 || Resp Choice: 85 ==GENERIC
+Does Resp: 48 || Resp Choice: 51 ==NONE
+Does Resp: 51 || Resp Choice: 67 ==NONE
+Does Resp: 86 || Resp Choice: 47 ==NONE
+Does Resp: 54 || Resp Choice: 23 ==NONE
+Does Resp: 63 || Resp Choice: 25 ==NONE
+Does Resp: 37 || Resp Choice: 14 ==NONE
+Does Resp: 15 || Resp Choice: 54 ==JAKE
+Does Resp: 50 || Resp Choice: 78 ==NONE
+Does Resp: 72 || Resp Choice: 77 ==NONE
+Does Resp: 40 || Resp Choice: 64 ==NONE
+Does Resp: 35 || Resp Choice: 23 ==NONE
+Does Resp: 2 || Resp Choice: 2 ==GENERIC
+Does Resp: 69 || Resp Choice: 44 ==NONE
+Does Resp: 3 || Resp Choice: 90 ==GENERIC
+Does Resp: 97 || Resp Choice: 77 ==NONE
+Does Resp: 24 || Resp Choice: 44 ==NONE
+Does Resp: 2 || Resp Choice: 26 ==GENERIC
+Does Resp: 18 || Resp Choice: 66 ==MATT
+ ==NONE
+Does Resp: 76 || Resp Choice: 82Does Resp: 55 || Resp Choice: 8 ==NONE
+Does Resp: 83 || Resp Choice: 9 ==NONE
+Does Resp: 92 || Resp Choice: 71 ==NONE
+ ==NONE
+Does Resp: 70 || Resp Choice: 61 ==NONE
+Does Resp: 58 || Resp Choice: 5Does Resp: 81 || Resp Choice: 46 ==NONE
+Does Resp: 14 || Resp Choice: 90 ==JAKE
+Does Resp: 71 || Resp Choice: 78 ==NONE
+Does Resp: 94 || Resp Choice: 88 ==NONE
+Does Resp: 57 || Resp Choice: 81 ==NONE
+Does Resp: 96 || Resp Choice: 66 ==NONE
+Does Resp: 52 || Resp Choice: 40 ==NONE
+Does Resp: 93 || Resp Choice: 29 ==NONE
+Does Resp: 39 || Resp Choice: 47 ==NONE
+ ==NONE
+Does Resp: 77 || Resp Choice: 81Does Resp: 47 || Resp Choice: 68 ==NONE
+Does Resp: 57 || Resp Choice: 80 ==NONE
+Does Resp: 7 || Resp Choice: 10 ==GENERIC
+ ==NONE
+Does Resp: 99 || Resp Choice: 3Does Resp: 35 || Resp Choice: 97 ==NONE
+Does Resp: 14 || Resp Choice: 91 ==JOSH
+Does Resp: 32 || Resp Choice: 10 ==NONE
+ ==GENERIC
+Does Resp: 4 || Resp Choice: 51Does Resp: 44 || Resp Choice: 74 ==NONE
+Does Resp: 23 || Resp Choice: 59 ==NONE
+Does Resp: 63 || Resp Choice: 38 ==NONE
+Does Resp: 92 || Resp Choice: 9 ==NONE
+Does Resp: 34 || Resp Choice: 98 ==NONE
+Does Resp: 71 || Resp Choice: 83 ==NONE
+Does Resp: 35 || Resp Choice: 4 ==NONE
+Does Resp: 88 || Resp Choice: 84 ==NONE
+Does Resp: 4 || Resp Choice: 36 ==GENERIC
+Does Resp: 44 || Resp Choice: 78 ==NONE
+Does Resp: 68 || Resp Choice: 87 ==NONE
+Does Resp: 17 || Resp Choice: 84 ==JOE
+Does Resp: 36 || Resp Choice: 76 ==NONE
+Does Resp: 41 || Resp Choice: 71 ==NONE
+Does Resp: 43 || Resp Choice: 80 ==NONE
+Does Resp: 31 || Resp Choice: 75 ==NONE
+Does Resp: 9 || Resp Choice: 55 ==GENERIC
+Does Resp: 85 || Resp Choice: 31 ==NONE
+Does Resp: 1 || Resp Choice: 54 ==GENERIC
+Does Resp: 62 || Resp Choice: 13 ==NONE
+Does Resp: 45 || Resp Choice: 21 ==NONE
+Does Resp: 31 || Resp Choice: 34 ==NONE
+Does Resp: 15 || Resp Choice: 52 ==GOERG
+ ==NONE
+Does Resp: 89 || Resp Choice: 37Does Resp: 29 || Resp Choice: 95 ==NONE
+Does Resp: 8 || Resp Choice: 52 ==GENERIC
+ ==NONE
+Does Resp: 63 || Resp Choice: 30 ==NONE
+Does Resp: 67 || Resp Choice: 46Does Resp: 53 || Resp Choice: 18 ==NONE
+Does Resp: 90 || Resp Choice: 36 ==NONE
+Does Resp: 49 || Resp Choice: 43 ==NONE
+Does Resp: 84 || Resp Choice: 54 ==NONE
+Does Resp: 5 || Resp Choice: 43 ==GENERIC
+Does Resp: 60 || Resp Choice: 15 ==NONE
+Does Resp: 82 || Resp Choice: 42 ==NONE
+Does Resp: 10 || Resp Choice: 95 ==GENERIC
+Does Resp: 31 || Resp Choice: 65 ==NONE
+ ==NONE
+Does Resp: 69 || Resp Choice: 95Does Resp: 48 || Resp Choice: 45 ==NONE
+Does Resp: 97 || Resp Choice: 97 ==NONE
+Does Resp: 92 || Resp Choice: 38 ==NONE
+Does Resp: 68 || Resp Choice: 72 ==NONE
+Does Resp: 77 || Resp Choice: 20 ==NONE
+Does Resp: 19 || Resp Choice: 49 ==GOERG
+Does Resp: 46 || Resp Choice: 12 ==NONE
+Does Resp: 87 || Resp Choice: 21 ==NONE
+Does Resp: 58 || Resp Choice: 83 ==NONE
+Does Resp: 80 || Resp Choice: 51 ==NONE
+Does Resp: 41 || Resp Choice: 66 ==NONE
+Does Resp: 6 || Resp Choice: 100 ==GENERIC
+Does Resp: 57 || Resp Choice: 42 ==NONE
+Does Resp: 86 || Resp Choice: 36 ==NONE
+ ==NONE
+Does Resp: 62 || Resp Choice: 12Does Resp: 33 || Resp Choice: 3 ==NONE
+Does Resp: 29 || Resp Choice: 70 ==NONE
+Does Resp: 34 || Resp Choice: 56 ==NONE
+Does Resp: 16 || Resp Choice: 84 ==CHRIS
+Does Resp: 90 || Resp Choice: 10 ==NONE
+Does Resp: 28 || Resp Choice: 86 ==NONE
+Does Resp: 66 || Resp Choice: 55 ==NONE
+Does Resp: 100 || Resp Choice: 9 ==NONE
+Does Resp: 22 || Resp Choice: 92 ==NONE
+Does Resp: 11 || Resp Choice: 72 ==JAKE
+ ==NONE
+Does Resp: 21 || Resp Choice: 20Does Resp: 34 || Resp Choice: 7 ==NONE
+Does Resp: 6 || Resp Choice: 12 ==GENERIC
+Does Resp: 87 || Resp Choice: 58 ==NONE
+Does Resp: 41 || Resp Choice: 8 ==NONE
+ ==NONE
+Does Resp: 100 || Resp Choice: 99Does Resp: 26 || Resp Choice: 85 ==NONE
+Does Resp: 80 || Resp Choice: 48 ==NONE
+Does Resp: 17 || Resp Choice: 48 ==GOERG
+Does Resp: 97 || Resp Choice: 47 ==NONE
+ ==NONE
+Does Resp: 77 || Resp Choice: 91 ==NONE
+Does Resp: 26 || Resp Choice: 58Does Resp: 2 || Resp Choice: 49 ==GENERIC
+Does Resp: 92 || Resp Choice: 73 ==NONE
+Does Resp: 42 || Resp Choice: 74 ==NONE
+Does Resp: 46 || Resp Choice: 61 ==NONE
+Does Resp: 9 || Resp Choice: 73 ==GENERIC
+Does Resp: 3 || Resp Choice: 41 ==GENERIC
+Does Resp: 28 || Resp Choice: 49 ==NONE
+Does Resp: 6 || Resp Choice: 96 ==GENERIC
+Does Resp: 74 || Resp Choice: 46 ==NONE
+Does Resp: 69 || Resp Choice: 17 ==NONE
+Does Resp: 55 || Resp Choice: 14 ==NONE
+Does Resp: 22 || Resp Choice: 10 ==NONE
+Does Resp: 69 || Resp Choice: 67 ==NONE
+ ==NONE
+Does Resp: 80 || Resp Choice: 27 ==NONE
+Does Resp: 75 || Resp Choice: 29 ==NONE
+Does Resp: 92 || Resp Choice: 73Does Resp: 17 || Resp Choice: 60 ==CHRIS
+Does Resp: 40 || Resp Choice: 12 ==NONE
+Does Resp: 84 || Resp Choice: 2 ==NONE
+ ==NONE
+Does Resp: 94 || Resp Choice: 37 ==NONE
+Does Resp: 52 || Resp Choice: 89Does Resp: 72 || Resp Choice: 33 ==NONE
+Does Resp: 44 || Resp Choice: 89 ==NONE
+Does Resp: 25 || Resp Choice: 94 ==NONE
+Does Resp: 17 || Resp Choice: 29==ALEX
+Does Resp: 33 || Resp Choice: 14 ==NONE
+Does Resp: 19 || Resp Choice: 74 ==JAKE
+Does Resp: 73 || Resp Choice: 38 ==NONE
+Does Resp: 86 || Resp Choice: 18 ==NONE
+Does Resp: 37 || Resp Choice: 7 ==NONE
+Does Resp: 36 || Resp Choice: 65 ==NONE
+Does Resp: 77 || Resp Choice: 6 ==NONE
+Does Resp: 32 || Resp Choice: 29 ==NONE
+Does Resp: 1 || Resp Choice: 79 ==GENERIC
+Does Resp: 41 || Resp Choice: 75 ==NONE
+Does Resp: 92 || Resp Choice: 71 ==NONE
+Does Resp: 100 || Resp Choice: 7 ==NONE
+Does Resp: 5 || Resp Choice: 6 ==GENERIC
+ ==NONE
+Does Resp: 49 || Resp Choice: 79Does Resp: 15 || Resp Choice: 13 ==JAKE
+Does Resp: 83 || Resp Choice: 62 ==NONE
+Does Resp: 66 || Resp Choice: 9 ==NONE
+ ==CHRIS
+Does Resp: 14 || Resp Choice: 51Does Resp: 16 || Resp Choice: 9 ==BRYAN
+Does Resp: 53 || Resp Choice: 15 ==NONE
+Does Resp: 21 || Resp Choice: 23 ==NONE
+Does Resp: 92 || Resp Choice: 99 ==NONE
+Does Resp: 51 || Resp Choice: 5 ==NONE
+Does Resp: 63 || Resp Choice: 17 ==NONE
+Does Resp: 29 || Resp Choice: 11 ==NONE
+Does Resp: 20 || Resp Choice: 65 ==JAKE
+Does Resp: 27 || Resp Choice: 80 ==NONE
+Does Resp: 56 || Resp Choice: 31 ==NONE
+ ==NONE
+Does Resp: 58 || Resp Choice: 63Does Resp: 98 || Resp Choice: 40 ==NONE
+Does Resp: 22 || Resp Choice: 48 ==NONE
+ ==NONE
+Does Resp: 48 || Resp Choice: 17Does Resp: 57 || Resp Choice: 61 ==NONE
+Does Resp: 17 || Resp Choice: 79==ALEX
+Does Resp: 21 || Resp Choice: 59 ==NONE
+Does Resp: 4 || Resp Choice: 85 ==GENERIC
+Does Resp: 17 || Resp Choice: 73 ==JOSH
+Does Resp: 19 || Resp Choice: 22 ==JOSH
+ ==NONE
+Does Resp: 31 || Resp Choice: 87Does Resp: 29 || Resp Choice: 67 ==NONE
+Does Resp: 63 || Resp Choice: 62 ==NONE
+Does Resp: 69 || Resp Choice: 43 ==NONE
+Does Resp: 30 || Resp Choice: 81 ==NONE
+Does Resp: 29 || Resp Choice: 11 ==NONE
+ ==NONE
+Does Resp: 56 || Resp Choice: 16 ==NONE
+Does Resp: 97 || Resp Choice: 15 ==NONE
+Does Resp: 62 || Resp Choice: 57Does Resp: 17 || Resp Choice: 84==ALEX
+Does Resp: 87 || Resp Choice: 58 ==NONE
+Does Resp: 38 || Resp Choice: 47 ==NONE
+Does Resp: 36 || Resp Choice: 19 ==NONE
+Does Resp: 8 || Resp Choice: 26 ==GENERIC
+ ==NONE
+Does Resp: 94 || Resp Choice: 33Does Resp: 36 || Resp Choice: 15 ==NONE
+Does Resp: 79 || Resp Choice: 80 ==NONE
+Does Resp: 78 || Resp Choice: 85 ==NONE
+Does Resp: 42 || Resp Choice: 41 ==NONE
+Does Resp: 9 || Resp Choice: 77 ==GENERIC
+Does Resp: 3 || Resp Choice: 49 ==GENERIC
+Does Resp: 45 || Resp Choice: 22 ==NONE
+Does Resp: 90 || Resp Choice: 54 ==NONE
+Does Resp: 37 || Resp Choice: 25 ==NONE
+Does Resp: 39 || Resp Choice: 90 ==NONE
+Does Resp: 94 || Resp Choice: 57 ==NONE
+Does Resp: 52 || Resp Choice: 34 ==NONE
+Does Resp: 5 || Resp Choice: 39 ==GENERIC
+Does Resp: 59 || Resp Choice: 58 ==NONE
+Does Resp: 33 || Resp Choice: 35 ==NONE
+Does Resp: 16 || Resp Choice: 100==ALEX
+Does Resp: 69 || Resp Choice: 51 ==NONE
+Does Resp: 5 || Resp Choice: 94 ==GENERIC
+Does Resp: 90 || Resp Choice: 18 ==NONE
+Does Resp: 68 || Resp Choice: 57 ==NONE
+Does Resp: 6 || Resp Choice: 51 ==GENERIC
+Does Resp: 97 || Resp Choice: 16 ==NONE
+Does Resp: 90 || Resp Choice: 27 ==NONE
+Does Resp: 6 || Resp Choice: 74 ==GENERIC
+Does Resp: 43 || Resp Choice: 54 ==NONE
+Does Resp: 78 || Resp Choice: 66 ==NONE
+Does Resp: 50 || Resp Choice: 97 ==NONE
+ ==NONE
+Does Resp: 52 || Resp Choice: 69 ==NONE
+Does Resp: 96 || Resp Choice: 66Does Resp: 18 || Resp Choice: 77 ==GOERG
+Does Resp: 7 || Resp Choice: 48 ==GENERIC
+Does Resp: 70 || Resp Choice: 51 ==NONE
+Does Resp: 7 || Resp Choice: 50 ==GENERIC
+Does Resp: 93 || Resp Choice: 70 ==NONE
+Does Resp: 42 || Resp Choice: 23 ==NONE
+Does Resp: 34 || Resp Choice: 56 ==NONE
+Does Resp: 51 || Resp Choice: 16 ==NONE
+Does Resp: 29 || Resp Choice: 14 ==NONE
+Does Resp: 52 || Resp Choice: 63 ==NONE
+Does Resp: 50 || Resp Choice: 63 ==NONE
+Does Resp: 14 || Resp Choice: 85==ALEX
+Does Resp: 5 || Resp Choice: 31 ==GENERIC
+Does Resp: 45 || Resp Choice: 88 ==NONE
+Does Resp: 93 || Resp Choice: 81 ==NONE
+Does Resp: 21 || Resp Choice: 93 ==NONE
+Does Resp: 79 || Resp Choice: 92 ==NONE
+Does Resp: 71 || Resp Choice: 24 ==NONE
+Does Resp: 75 || Resp Choice: 57 ==NONE
+Does Resp: 48 || Resp Choice: 79 ==NONE
+Does Resp: 97 || Resp Choice: 3 ==NONE
+ ==GENERIC
+Does Resp: 1 || Resp Choice: 6Does Resp: 66 || Resp Choice: 36 ==NONE
+Does Resp: 52 || Resp Choice: 17 ==NONE
+Does Resp: 39 || Resp Choice: 28 ==NONE
+Does Resp: 17 || Resp Choice: 5 ==CHRIS
+Does Resp: 73 || Resp Choice: 96 ==NONE
+Does Resp: 32 || Resp Choice: 28 ==NONE
+Does Resp: 84 || Resp Choice: 21 ==NONE
+Does Resp: 64 || Resp Choice: 46 ==NONE
+ ==NONE
+Does Resp: 55 || Resp Choice: 57Does Resp: 62 || Resp Choice: 68 ==NONE
+ ==NONE
+Does Resp: 89 || Resp Choice: 62Does Resp: 86 || Resp Choice: 23 ==NONE
+ ==NONE
+Does Resp: 55 || Resp Choice: 64Does Resp: 24 || Resp Choice: 86 ==NONE
+Does Resp: 42 || Resp Choice: 49 ==NONE
+Does Resp: 61 || Resp Choice: 48 ==NONE
+Does Resp: 79 || Resp Choice: 27 ==NONE
+Does Resp: 17 || Resp Choice: 77 ==GOERG
+Does Resp: 48 || Resp Choice: 31 ==NONE
+Does Resp: 27 || Resp Choice: 19 ==NONE
+Does Resp: 88 || Resp Choice: 51 ==NONE
+Does Resp: 99 || Resp Choice: 40 ==NONE
+Does Resp: 88 || Resp Choice: 8 ==NONE
+ ==NONE
+Does Resp: 67 || Resp Choice: 53Does Resp: 78 || Resp Choice: 70 ==NONE
+Does Resp: 27 || Resp Choice: 34 ==NONE
+ ==GENERIC
+Does Resp: 3 || Resp Choice: 17Does Resp: 68 || Resp Choice: 92 ==NONE
+Does Resp: 68 || Resp Choice: 90 ==NONE
+Does Resp: 37 || Resp Choice: 71 ==NONE
+Does Resp: 76 || Resp Choice: 23 ==NONE
+ ==NONE
+Does Resp: 34 || Resp Choice: 66 ==NONE
+Does Resp: 64 || Resp Choice: 9Does Resp: 94 || Resp Choice: 95 ==NONE
+Does Resp: 74 || Resp Choice: 29 ==NONE
+Does Resp: 21 || Resp Choice: 7 ==NONE
+Does Resp: 90 || Resp Choice: 85 ==NONE
+Does Resp: 61 || Resp Choice: 81 ==NONE
+ ==NONE
+Does Resp: 84 || Resp Choice: 53 ==NONE
+Does Resp: 92 || Resp Choice: 40Does Resp: 74 || Resp Choice: 63 ==NONE
+Does Resp: 23 || Resp Choice: 28 ==NONE
+Does Resp: 67 || Resp Choice: 48 ==NONE
+Does Resp: 37 || Resp Choice: 98 ==NONE
+Does Resp: 29 || Resp Choice: 47 ==NONE
+ ==NONE
+Does Resp: 40 || Resp Choice: 41Does Resp: 10 || Resp Choice: 95 ==GENERIC
+Does Resp: 31 || Resp Choice: 75 ==NONE
+Does Resp: 37 || Resp Choice: 59 ==NONE
+Does Resp: 77 || Resp Choice: 17 ==NONE
+Does Resp: 43 || Resp Choice: 94 ==NONE
+Does Resp: 39 || Resp Choice: 81 ==NONE
+ ==GENERIC
+Does Resp: 5 || Resp Choice: 52Does Resp: 84 || Resp Choice: 49 ==NONE
+Does Resp: 39 || Resp Choice: 5 ==NONE
+ ==NONE
+Does Resp: 36 || Resp Choice: 23Does Resp: 36 || Resp Choice: 45 ==NONE
+ ==NONE
+Does Resp: 39 || Resp Choice: 95Does Resp: 53 || Resp Choice: 34 ==NONE
+Does Resp: 21 || Resp Choice: 80 ==NONE
+Does Resp: 38 || Resp Choice: 69 ==NONE
+Does Resp: 71 || Resp Choice: 18 ==NONE
+Does Resp: 65 || Resp Choice: 61 ==NONE
+Does Resp: 2 || Resp Choice: 92 ==GENERIC
+ ==NONE
+Does Resp: 88 || Resp Choice: 23Does Resp: 20 || Resp Choice: 57 ==JAKE
+Does Resp: 72 || Resp Choice: 31 ==NONE
+ ==NONE
+Does Resp: 40 || Resp Choice: 2 ==NONE
+Does Resp: 100 || Resp Choice: 75Does Resp: 93 || Resp Choice: 68 ==NONE
+Does Resp: 85 || Resp Choice: 44 ==NONE
+Does Resp: 17 || Resp Choice: 91 ==JAKE
+ ==NONE
+Does Resp: 87 || Resp Choice: 37Does Resp: 35 || Resp Choice: 58 ==NONE
+ ==NONE
+Does Resp: 26 || Resp Choice: 64Does Resp: 57 || Resp Choice: 72 ==NONE
+ ==GENERIC
+Does Resp: 4 || Resp Choice: 78Does Resp: 92 || Resp Choice: 16 ==NONE
+Does Resp: 2 || Resp Choice: 91 ==GENERIC
+Does Resp: 79 || Resp Choice: 85 ==NONE
+Does Resp: 71 || Resp Choice: 66 ==NONE
+Does Resp: 51 || Resp Choice: 33 ==NONE
+Does Resp: 11 || Resp Choice: 65==ALEX
+Does Resp: 100 || Resp Choice: 50 ==NONE
+Does Resp: 3 || Resp Choice: 87 ==GENERIC
+Does Resp: 16 || Resp Choice: 38==ALEX
+Does Resp: 50 || Resp Choice: 73 ==NONE
+Does Resp: 12 || Resp Choice: 25 ==JAKE
+Does Resp: 4 || Resp Choice: 8 ==GENERIC
+ ==NONE
+Does Resp: 86 || Resp Choice: 42Does Resp: 46 || Resp Choice: 64 ==NONE
+ ==NONE
+Does Resp: 72 || Resp Choice: 25Does Resp: 56 || Resp Choice: 63 ==NONE
+Does Resp: 100 || Resp Choice: 50 ==NONE
+Does Resp: 17 || Resp Choice: 88 ==GOERG
+Does Resp: 55 || Resp Choice: 27 ==NONE
+Does Resp: 12 || Resp Choice: 26 ==JAKE
+Does Resp: 13 || Resp Choice: 73 ==JAKE
+Does Resp: 93 || Resp Choice: 25 ==NONE
+Does Resp: 66 || Resp Choice: 25 ==NONE
+Does Resp: 39 || Resp Choice: 76 ==NONE
+Does Resp: 34 || Resp Choice: 17 ==NONE
+Does Resp: 81 || Resp Choice: 25 ==NONE
+ ==GENERIC
+Does Resp: 2 || Resp Choice: 30Does Resp: 90 || Resp Choice: 35 ==NONE
+Does Resp: 30 || Resp Choice: 90 ==NONE
+Does Resp: 77 || Resp Choice: 63 ==NONE
+Does Resp: 88 || Resp Choice: 39 ==NONE
+Does Resp: 75 || Resp Choice: 8 ==NONE
+Does Resp: 17 || Resp Choice: 2 ==GOERG
+Does Resp: 52 || Resp Choice: 88 ==NONE
+Does Resp: 23 || Resp Choice: 84 ==NONE
+ ==NONE
+Does Resp: 37 || Resp Choice: 25Does Resp: 12 || Resp Choice: 94 ==JAKE
+ ==NONE
+Does Resp: 39 || Resp Choice: 95Does Resp: 40 || Resp Choice: 32 ==NONE
+Does Resp: 85 || Resp Choice: 41 ==NONE
+Does Resp: 92 || Resp Choice: 33 ==NONE
+Does Resp: 99 || Resp Choice: 88 ==NONE
+Does Resp: 34 || Resp Choice: 83 ==NONE
+Does Resp: 73 || Resp Choice: 56 ==NONE
+Does Resp: 79 || Resp Choice: 14 ==NONE
+ ==NONE
+Does Resp: 63 || Resp Choice: 35 ==GENERIC
+Does Resp: 9 || Resp Choice: 57Does Resp: 25 || Resp Choice: 55 ==NONE
+Does Resp: 50 || Resp Choice: 22 ==NONE
+ ==GENERIC
+Does Resp: 5 || Resp Choice: 98 ==NONE
+Does Resp: 76 || Resp Choice: 17Does Resp: 33 || Resp Choice: 89 ==NONE
+Does Resp: 64 || Resp Choice: 84 ==NONE
+Does Resp: 48 || Resp Choice: 6 ==NONE
+Does Resp: 66 || Resp Choice: 57 ==NONE
+Does Resp: 73 || Resp Choice: 72 ==NONE
+Does Resp: 80 || Resp Choice: 45 ==NONE
+Does Resp: 16 || Resp Choice: 19 ==GOERG
+Does Resp: 39 || Resp Choice: 15 ==NONE
+Does Resp: 61 || Resp Choice: 37 ==NONE
+ ==NONE
+Does Resp: 41 || Resp Choice: 72Does Resp: 79 || Resp Choice: 80 ==NONE

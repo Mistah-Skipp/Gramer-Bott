@@ -83,7 +83,12 @@ client.on('message', message => {
             }
         } else if(doesResp > 10  &&  doesResp <= 20){
             if(message.author.id === "266014149853708291"){
-                message.channel.send("Godzilla bad");
+                var insultChoice = math.floor((math.random()*100) +1);
+                if (insultChoice % 2 === 0) {
+                    message.channel.send("Godzilla bad");
+                } else {
+                    message.channel.send("TMNT bad");
+                }
                 fs.appendFile('log.txt', " ==JOE\r\n", (err) => {if (err) throw err;});
                 //joe
             } else if(message.author.id === "263457606645972995"){
@@ -132,4 +137,4 @@ client.login(process.env['TOKEN']);
 
 
 //setup vc capability (play any audio)
-//possible have that in sepereate js file, figure out how to link/run the two side by side
+//possible have that in sepereate js file
