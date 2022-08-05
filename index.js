@@ -8,133 +8,24 @@ client.on("ready", () => {
         status: "online",  //You can show online, idle....
     });
 });
-
+const correctSpelling = ['accomodate','accommodation','achieve','acriss','aggressive','aggression','apparently','appearance','argument','assassination','basically','beginning','believe','believe','bizarre','business','calendar','caribbean','cemetery','chauffeur','colleague','coming','committee','completely','conscious','curiosity','definitely','dilemma','disappear','disappoint','ecstasy','embarrass','environment','existence','Fahrenheit','familiar','finally','fluorescent','foreign','foreseeable','forty','forward','friend','further','gist','glamorous','government','guard','happened','harass','harassment','honorary','humorous','idiosyncrasy','immediately','incidentally','independent','interrupt','irresistible','knowledge','liaise','liaison','lollipop','millenniummillennia','neanderthal','necessary','noticeable','occasion','occasion','occurred','occurring','occurrence','occurrence','pavilion','persistent','pharaoh','piece','politician','Portuguese','possession','preferred','preferring','propaganda','publicly','really','receive','referred','referring','religious','remember','remember','resistance','sense','separate','siege','successful','supersede','surprise','tattoo','tendency','therefore','threshold','tomorrow','tomorrow','tongue','truly','unforeseen','unfortunately','until','weird','wherever','which'];
+const incorrectSpelling = ['accomodate','accomodation','acheive','accross','agressive','agression','apparantly','appearence','arguement','assasination','basicly','begining','beleive','belive','bizzare','buisness','calender','Carribean','cemetary','chauffer','collegue','comming','commitee','completly','concious','curiousity','definately','dilemna','dissapear','dissapoint','ecstacy','embarass','enviroment','existance','farenheit','familar','finaly','florescent','foriegn','forseeable','fourty','foward','freind','futher','jist','glamourous','goverment','gaurd','happend','harrass','harrassment','honourary','humourous','idiosyncracy','immediatly','incidently','independant','interupt','irresistable','knowlege','liase','liason','lollypop','millenium','millenia','Neandertal','neccessary','noticable','ocassion','occassion','occured','occuring','occurence','pavillion','persistant','pharoah','peice','politican','Portugese','posession','prefered','prefering','propoganda','publically','realy','recieve','refered','refering','religous','rember','remeber','resistence','sence','seperate','seige','succesful','supercede','suprise','tatoo','tendancy','therefor','threshhold','tommorow','tommorrow','tounge','truely','unforseen','unfortunatly','untill','wierd','whereever','wich'];
 //test zone
 client.on('message', message =>{
-    
-});
-
-
-//listed rando msg
-client.on('message', message => {
-    console.log(message.content)
-    var resp = Math.floor((Math.random() * 100) + 1);
-    var doesResp = Math.floor((Math.random() * 100) + 1);
-
-    let args = message.content.toLowerCase().split(" ");
-    var cntr = 0;
-    var length = message.content.length;
-    //console.log(length);
-    while (length >= cntr){
-        switch(args[cntr]){
-            case "69":
-                message.channel.send("nice :smiley:");
-                cntr++;
-                break;
-            case "420":
-                message.channel.send("W33D");
-                cntr++;
-                break;
-            case "star":
-                if(args[cntr+1] == "wars"){
-                message.channel.send({files:["https://cdn.discordapp.com/attachments/834917458682314762/927338516009082900/atsts.gif"]});
+    if(!message.author.bot){
+        let args = message.content.toLowerCase().split(" ");
+        var cntr = 0;
+        var length = message.content.length;
+            for( let i = 0;i <= length;i++){
+                for (let j = 0; j < correctSpelling.length; j++) {
+                    if (args[i] == incorrectSpelling[j]){
+                    message.channel.send("you misspelt "+ args[i] + " its actually spelt like this: " +correctSpelling[j]);
                 }
-                cntr++;
-                break;
-            default:
-                cntr++;
-                break;
+                console.log(i +','+j)
+            }
         }
     }
-
-    if (message.member.roles.cache.has('354004613797511169')) {
-            console.log("do i respond:\n(0-10 gen || 11-20 spec)"+doesResp);
-            console.log("what response i choose for gen: "+resp);
-            fs.appendFile('log.txt', "Does Resp: "+doesResp +" || Resp Choice: "+ resp, (err) => {if (err) throw err;});
-            if (doesResp >20){
-                fs.appendFile('log.txt', " ==NONE\r\n", (err) => {if (err) throw err;});
-            }
-        if (doesResp > 0 && doesResp <= 10){
-            fs.appendFile('log.txt', " ==GENERIC\r\n", (err) => {if (err) throw err;});
-            if (resp == 69){
-                message.channel.send("haha nice.. get it? its the sex number");
-            }else if (resp > 0 && resp <= 10){
-                message.channel.send("The fuck did you say to me little shit? How are you not at fucking school, do you kiss your mother with that mouth? you shut up when im talking to you ");
-            }else if (resp > 10 && resp <= 20){
-                message.channel.send("To be fair, you have to have a very high IQ to understand Rick and Morty. The humor is extremely subtle, and without a solid grasp of theoretical physics most of the jokes will go over a typical viewer's head.");
-            } else if (resp > 20 && resp <= 30){
-                message.channel.send("trying to sell a gently used pallet of bricks, wanna buy?");
-            } else if (resp > 30 && resp <= 40){
-                message.channel.send("no i dont do coke regularly");
-            }else if(resp > 40 && resp <= 50){
-                message.channel.send("I hope you die in your sleep");
-            }else if (resp > 50 && resp <= 60){
-                message.channel.send("What the fuck did you just fucking say about me, you little bitch? I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills.");
-            }else if (resp > 60 && resp <= 70){
-                message.channel.send("bad coder cant think of funny");
-            }else if (resp > 70 && resp <= 80){
-                message.channel.send("bad coder cant think of funny");
-            }else if (resp > 80 && resp <= 90){
-                message.channel.send("bad coder cant think of funny");
-            }else if (resp > 90 && resp <= 98){
-                message.channel.send("bad coder cant think of funny");
-            } else if (resp > 98 && resp <= 100){
-                message.channel.send("I Joe Carpinone am going to do something drastic to the US capital");
-            }
-        } else if(doesResp > 10  &&  doesResp <= 20){
-            if(message.author.id === "266014149853708291"){
-                var insultChoice = math.floor((math.random()*100) +1);
-                if (insultChoice % 2 === 0) {
-                    message.channel.send("Godzilla bad");
-                } else {
-                    message.channel.send("TMNT bad");
-                }
-                fs.appendFile('log.txt', " ==JOE\r\n", (err) => {if (err) throw err;});
-                //joe
-            } else if(message.author.id === "263457606645972995"){
-                message.channel.send("whatever Mr. $4000 bed");
-                fs.appendFile('log.txt', " ==GOERG\r\n", (err) => {if (err) throw err;});
-                //goerg
-            } else if(message.author.id ==="163810266625081345"){
-                message.channel.send("says the token gay guy");
-                fs.appendFile('log.txt', " ==BRYAN\r\n", (err) => {if (err) throw err;});
-                //bryan
-            }else if(message.author.id === "296404969387720705"){
-                var car = Math.floor((Math.random() * 10) + 5);
-                message.channel.send("go roll your " + car + "th car you cuck");
-                fs.appendFile('log.txt', "==ALEX\r\n", (err) => {if (err) throw err;});
-                //alex
-            }else if(message.author.id === "312399825637212160"){
-                message.channel.send("Dont care, didnt ask");
-                fs.appendFile('log.txt', " ==JAKE\r\n", (err) => {if (err) throw err;});
-                //jake
-            }else if(message.author.id === "174377288903688192"){
-                fs.appendFile('log.txt', " ==JOSH\r\n", (err) => {if (err) throw err;});message.channel.send("OK elite preferred species");
-                //josh
-            }else if(message.author.id === "242037517241548801"){
-                message.channel.send("I cant insult my wittle PogChamp");
-                fs.appendFile('log.txt', " ==CHRIS\r\n", (err) => {if (err) throw err;});
-                //chris
-            }else if(message.author.id === "324612052532592641"){
-                message.channel.send("Matt your the only one i like out of these bumbling retards");
-                fs.appendFile('log.txt', " ==MATT\r\n", (err) => {if (err) throw err;});
-                //matt
-            }
-        }
-    }// EOF @GUYS ROLE  
-    //944051595711234048
-    if(message.member.roles.cache.has("944051595711234048")||message.content.includes("@&944051595711234048")){
-        if(doesResp <= 10){
-            message.channel.send("Garlo Bad");
-        }
-    }//EOF @GARLO_BAD ROLE
-
 });
 
 client.login(process.env['TOKEN']);
-
-
-
-
-//setup vc capability (play any audio)
-//possible have that in sepereate js file
+//https://www.lexico.com/grammar/common-misspellings
